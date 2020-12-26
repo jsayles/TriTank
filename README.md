@@ -1,5 +1,5 @@
 # TriTank
-A robot based on the OSEPP TRIANGULAR MECHANICAL TANK CHASSIS
+A robot based on the OSEPP Triangular Mechanical Tank Chassis
 
 ## Chassis
 - [OSEPP Triangular Mechanical Tank Chassis](https://osepp.com/robotic-kits/3-triangulartank)
