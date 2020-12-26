@@ -2,8 +2,8 @@
 A robot based on the OSEPP TRIANGULAR MECHANICAL TANK CHASSIS
 
 ## Chassis
-https://leeselectronic.com/en/product/16305.html
-https://osepp.com/robotic-kits/3-triangulartank
+- [OSEPP Triangular Mechanical Tank Chassis](https://osepp.com/robotic-kits/3-triangulartank)
+- https://leeselectronic.com/en/product/16305.html
 
 ## Brains
 - [Olympia Circuits LeOlympia - v1.0](http://www.olympiacircuits.com/leolympia.html)
