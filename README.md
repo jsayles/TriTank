@@ -22,20 +22,17 @@ A robot based on the OSEPP Triangular Mechanical Tank Chassis
 - [Product Page](https://www.adafruit.com/product/2633)
 
 ### Pins
-- 1:
-- 2:
+- 2:  BLE SCK (Blue)
 - 3:  Motor #2
 - 4:  Motor Shield
-- 5:  (Motor #3)
-- 6:  (Motor #4)
+- 5:  BLE MISO/Motor #3 (Orange)
+- 6:  BLE MISI/Motor #4 (Yellow)
 - 7:  Motor Shield
 - 8:  Motor Shield
 - 9:  Servo #1
 - 10: Servo #2
 - 11: Motor #1
 - 12: Motor Shield
-- 13: Button 1
-- 14:
-- 15:
-- 16:
--
+- 13: Button 1/BLE Reset (White)
+- 14: BLE IRQ (Brown)
+- 15: BLE CS (Green)
