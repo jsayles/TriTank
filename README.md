@@ -25,8 +25,8 @@ A robot based on the OSEPP Triangular Mechanical Tank Chassis
 - 2:  BLE SCK (Blue)
 - 3:  Motor #2
 - 4:  Motor Shield
-- 5:  BLE MISO/Motor #3 (Orange)
-- 6:  BLE MISI/Motor #4 (Yellow)
+- 5:  BLE MISO (Orange)
+- 6:  BLE MISI (Yellow)
 - 7:  Motor Shield
 - 8:  Motor Shield
 - 9:  Servo #1
