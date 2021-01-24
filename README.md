@@ -13,6 +13,7 @@ A robot based on the OSEPP Triangular Mechanical Tank Chassis
 - This was in the original MAKE box that got me started with Arduino
 - [Product Page](https://www.adafruit.com/product/81)
 - [Tutorial](https://learn.adafruit.com/adafruit-motor-shield)
+- [Schematic](https://cdn-learn.adafruit.com/assets/assets/000/009/769/original/mshieldv1-schem.png)
 
 ### Adafruit Proto Shield - Version R3
 - [Product Page](https://www.adafruit.com/product/2077)
@@ -36,3 +37,7 @@ A robot based on the OSEPP Triangular Mechanical Tank Chassis
 - 13: Button 1/BLE Reset (White)
 - 14: BLE IRQ (Brown)
 - 15: BLE CS (Green)
+- 16: Grove 1
+- 17: Grove 1
+- 18: Grove 2 / SDA
+- 19: Grove 2 / SCL
